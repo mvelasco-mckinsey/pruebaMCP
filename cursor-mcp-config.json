@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "java-project-assistant": {
+      "command": "node",
+      "args": ["/Users/maria_velasco/Library/CloudStorage/OneDrive-McKinsey&Company/Documents/workspace/latam/PruebasMCP/dist/index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
